@@ -1,34 +1,30 @@
-<h1 align="center">Hi 👋, I'm Nikhil Thapa</h1>
+<h1 align="center">Hey there! 👋 I'm Nikhil Thapa</h1>
 
 <p align="center">
-  <b>Backend Developer | NestJS · ExpressJS · PostgreSQL · TypeScript</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Backend+Developer;NestJS+%7C+PostgreSQL+%7C+TypeScript;System+Design+%7C+Clean+Architecture" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working at **The Return Journey** as a Backend Developer
-- 👨‍💻 I have ~2 years of professional experience in **backend development**
-- 💻 I specialize in building robust REST APIs and scalable architectures using:
-  - NestJS, Express.js, LoopBack 4 (LB4)
-  - PostgreSQL, MongoDB
-  - TypeORM, Sequelize
-- 🔁 Experienced in:
-  - Microservices & event-driven systems (`@OnEvent`)
-  - Scheduled jobs & batch processing (`@nestjs/schedule`)
-  - API integrations (Google Maps, external services)
-- 📐 I also enjoy **System Design** and **clean architecture** best practices
+- 💼 Backend Developer @ **The Return Journey**
+- 👨‍💻 ~2 years experience in **TypeScript**, **NestJS**, and **PostgreSQL**
+- 🧰 Passionate about building scalable and clean backend systems
+- 🔁 Event-driven services, batch jobs, DTO validation, and DB schemas are my thing
+- 🌐 Integrations pro: Google Maps API, Distance Matrix, external REST APIs
 
 ---
 
 ### 🚀 Tech Stack
 
+<img src="https://skillicons.dev/icons?i=ts,nestjs,nodejs,express,postgres,mongodb,git,linux,figma" />
+
 ```ts
-const techStack = {
-  languages: ['TypeScript', 'JavaScript'],
-  backend: ['NestJS', 'ExpressJS', 'LoopBack 4'],
-  databases: ['PostgreSQL', 'MongoDB'],
-  tools: ['TypeORM', 'Axios', 'Jest', 'Swagger'],
-  integrations: ['Google Maps API', 'Distance Matrix'],
-};
+const stack = {
+  language: 'TypeScript',
+  backend: ['NestJS', 'Express.js', 'LoopBack 4'],
+  database: ['PostgreSQL', 'MongoDB'],
+  tools: ['TypeORM', 'Swagger', 'Axios'],
+  design: 'System Architecture & Domain Modeling'
+}
