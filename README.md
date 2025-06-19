@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Nikhil Thapa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Backend+Developer;NestJS+%7C+PostgreSQL+%7C+TypeScript;System+Design+%7C+Clean+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Backend+Developer;NestJS+%7C+PostgreSQL+%7C+TypeScript;System+%7CDesign+%7C+Clean+Architecture" alt="Typing SVG" />
 </p>
 
 ---
