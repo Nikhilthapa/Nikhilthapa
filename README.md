@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhil
+  <img src="https://komarev.com/ghpvc/?username=Nikhilthapa
 &color=brightgreen" alt="Visitor Badge"/>
 </p>
 
