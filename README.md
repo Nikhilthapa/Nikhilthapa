@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&lines=Backend+Developer" alt="Typing SVG" />
 </p>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nikhilthapa
-&color=brightgreen" alt="Visitor Badge"/>
-</p>
-
 ---
 
 ### 💼 About Me
@@ -26,6 +20,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nikhilthapa
+&color=brightgreen" alt="Visitor Badge"/>
+</p>
+
+
+
 ### 🧰 My Tech Toolbox
 
 <p align="center">
@@ -40,3 +41,6 @@ const backendStack = {
   tools: ['TypeORM', 'Swagger', 'Axios'],
   extras: ['Clean Architecture', 'Google APIs', 'Batch Processing']
 };
+
+
+
