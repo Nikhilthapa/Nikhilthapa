@@ -5,8 +5,10 @@
 </p>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nikhilthapa
-&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nikhilthapa
+&color=brightgreen" alt="Visitor Badge"/>
+</p>
 
 ---
 
