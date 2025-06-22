@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&lines=Backend+Developer" alt="Typing SVG" />
 </p>
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
 ---
 
 ### 💼 About Me
