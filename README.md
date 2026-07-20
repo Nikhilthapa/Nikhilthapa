@@ -42,7 +42,7 @@
 ### 🧰 My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nestjs,nodejs,express,postgres,mongodb,git,docker,swagger" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,nestjs,express,fastapi,postgres,mongodb,redis,docker,aws,git,github,tailwind,prisma,vscode" />
 </p>
 
 ```ts
