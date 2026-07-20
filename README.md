@@ -8,15 +8,28 @@
 
 ### 💼 About Me
 
-- 🧑‍💻 Backend Developer @ **The Return Journey**
-- 👨‍🔧 3+ years of experience in scalable backend systems
-- 🚀 I specialize in:
-  - NestJS / ExpressJS
-  - PostgreSQL / MongoDB
-  - Clean code, modular architecture, DTOs & validations
-- 📍 Built real-time location-based APIs using **Google Maps** & **Distance Matrix**
-- 🔁 Expert in scheduled jobs, event-driven systems, and REST API design
-- 🧠 Passionate about clean architecture, domain modeling, and system design
+* 💼 **Software Engineer @ Sparix Global**
+* 🧑‍💻 **3+ years of experience** building scalable, production-ready web applications and backend systems.
+* 🚀 I specialize in:
+
+  * **Backend:** NestJS, Express.js, Node.js, REST APIs, Microservices
+  * **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
+  * **Databases:** PostgreSQL, MongoDB, Redis
+  * **Cloud & DevOps:** Docker, AWS, GitHub Actions
+* 🤖 **AI Engineer** with hands-on experience in:
+
+  * Retrieval-Augmented Generation (RAG)
+  * Model Context Protocol (MCP)
+  * AI Agent development
+  * LLM integrations (OpenAI, Anthropic, Gemini)
+  * Prompt Engineering
+  * Vector Databases & Semantic Search
+  * AI Evaluation & Observability
+  * Fine-tuning workflows and custom AI applications
+* 📍 Built production-grade location-based services using **Google Maps APIs**, **Distance Matrix**, and geospatial data.
+* 🔁 Experienced in scheduled jobs, event-driven architectures, background workers, queues, and scalable REST API design.
+* 🏗️ Passionate about **Clean Architecture**, **Domain-Driven Design (DDD)**, **System Design**, and writing maintainable, modular code.
+* 🌱 Always exploring modern technologies in AI, cloud infrastructure, distributed systems, and developer productivity.
 
 ---
 
