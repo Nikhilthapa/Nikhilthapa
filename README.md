@@ -9,7 +9,7 @@
 ### 💼 About Me
 
 - 🧑‍💻 Backend Developer @ **The Return Journey**
-- 👨‍🔧 2.5 years of experience in scalable backend systems
+- 👨‍🔧 3+ years of experience in scalable backend systems
 - 🚀 I specialize in:
   - NestJS / ExpressJS
   - PostgreSQL / MongoDB
