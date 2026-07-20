@@ -46,12 +46,26 @@
 </p>
 
 ```ts
-const backendStack = {
-  languages: ['TypeScript', 'JavaScript'],
-  frameworks: ['NestJS', 'Express', 'LoopBack 4'],
-  db: ['PostgreSQL', 'MongoDB'],
-  tools: ['TypeORM', 'Swagger', 'Axios'],
-  extras: ['Clean Architecture', 'Google APIs', 'Batch Processing']
+const techStack = {
+  languages: ['TypeScript', 'JavaScript', 'Python'],
+  frameworks: ['NestJS', 'Express', 'LoopBack 4', 'React', 'Next.js', 'FastAPI'],
+  db: ['PostgreSQL', 'MongoDB', 'Redis', 'Vector Databases'],
+  tools: ['TypeORM', 'Prisma', 'Swagger', 'Axios', 'Docker', 'GitHub Actions'],
+  extras: [
+    'Clean Architecture',
+    'System Design',
+    'REST APIs',
+    'Microservices',
+    'Google Maps APIs',
+    'Batch Processing',
+    'RAG',
+    'MCP',
+    'LLM Integration',
+    'Prompt Engineering',
+    'AI Agents',
+    'Fine-tuning',
+    'Event-Driven Architecture'
+  ]
 };
 
 
